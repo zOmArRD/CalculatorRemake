@@ -27,7 +27,7 @@ Aquí hay algunas capturas de pantalla de la calculadora:
 2. Asegúrate de tener instalado el JDK y el JavaFX SDK.
 3. Abre el proyecto en tu entorno de desarrollo preferido (por ejemplo, IntelliJ IDEA, Eclipse, etc.).
 4. Configura el JDK y las bibliotecas de JavaFX en tu entorno de desarrollo.
-5. Compila y ejecuta la clase `CalculatorApp.java` para iniciar la aplicación.
+5. Compila y ejecuta la clase `Calculator.java` para iniciar la aplicación.
 
 ## Contribuciones
 
