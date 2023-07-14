@@ -1,0 +1,18 @@
+/*
+ * Copyright (c) 2023. OMY TECHNOLOGY <omar@omy.technology>
+ */
+
+.root {
+    -fx-background-color: #222;
+    -fx-background-radius: 28;
+}
+
+.container {
+    -fx-background-color: linear-gradient(to bottom right, #f112ff, #723ab6, #4800ff);
+    -fx-background-radius: 15 15 25 25;
+}
+
+.highlight {
+    -fx-background-color: #00000025;
+    -fx-background-radius: 15;
+}
